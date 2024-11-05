@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **Node.js, React, Postgresql, MongoDB Etc.**
 
-- 📫 How to reach me **twitter.com/DeveloperAnkit3**
-
-- - ⚡ Fun fact :- **I don't have any college degree**
+- ⚡ Fun fact :- **I don't have any college degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
